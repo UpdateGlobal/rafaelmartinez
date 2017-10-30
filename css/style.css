@@ -416,7 +416,8 @@ h2.has-line-center .heading-bg-text {
     margin-bottom: 20px !important
 }
 .mt-63{
-    margin-top: 63px !important
+    margin-top: 80px !important
+
 }
 
 .mt-10{
@@ -530,7 +531,7 @@ nav.main-navigation li.divider {
     background: #ccc; 
 }
 nav.main-navigation .navbar-toggle { 
-    background: #b06ab3; 
+    background: #000; 
     border-radius: 2px; 
 }
 nav.main-navigation.navbar-toggle:hover { 
@@ -577,7 +578,7 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
     height: 100vh;
 }
 .header-1 h1{
-    margin-bottom: 30px
+    margin-bottom: 30px;
 }
 .header-1 h3{
     font-size: 30px;

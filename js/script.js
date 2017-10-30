@@ -42,7 +42,7 @@ $(document).ready(function () {
     var element = $(".element");
     $(function() {
       element.typed({
-        strings: ["a Web Designer.", "a Web Developer.", "a Graphic Designer.", "an Entrepreneur." ],
+        strings: ["un Speaker Internacional.", "un Conferencista Internacional.", "Especialista en Marketing Digital.", "un Ciudadano del Mundo." ],
         typeSpeed: 100,
         loop: true,
       });
